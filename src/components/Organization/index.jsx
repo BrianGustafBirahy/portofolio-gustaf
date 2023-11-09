@@ -7,7 +7,7 @@ const Organization = () => {
         {/* blog-wrapper */}
         <div className="blog-card">
             <div className="blog-card-header">
-            <img src="/public/imgs/Smarty.svg" className="blog-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img src="https://raw.githubusercontent.com/BrianGustafBirahy/portofolio-gustaf/7b174ecbb7a786f8babd74c4c2c9c4e6db4cf258/public/imgs/Smarty.svg" className="blog-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
             </div>
             <div className="blog-card-body">
             <h5 className="blog-card-title">Smansa Art Community</h5>
@@ -27,7 +27,7 @@ const Organization = () => {
         </div>{/* end of blog wrapper */}
         <div className="blog-card">
             <div className="blog-card-header">
-            <img src="/public/imgs/GenBI.svg" className="blog-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img src="https://raw.githubusercontent.com/BrianGustafBirahy/portofolio-gustaf/7b174ecbb7a786f8babd74c4c2c9c4e6db4cf258/public/imgs/GenBI.svg" className="blog-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
             </div>
             <div className="blog-card-body">
             <h5 className="blog-card-title">Generasi Baru Indonesia</h5>
@@ -41,7 +41,7 @@ const Organization = () => {
         {/* blog-wrapper */}
         <div className="blog-card">
             <div className="blog-card-header">
-            <img src="/public/imgs/TUC.svg" className="blog-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img src="https://raw.githubusercontent.com/BrianGustafBirahy/portofolio-gustaf/7b174ecbb7a786f8babd74c4c2c9c4e6db4cf258/public/imgs/TUC.svg" className="blog-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
             </div>
             <div className="blog-card-body">
             <h5 className="blog-card-title">The Unklab Choir</h5>

@@ -8,7 +8,7 @@ const Portofolio = () => {
         <div className="row">
             <div className="col-md-4">
             <a href="#" className="portfolio-card">
-                <img src="/public/imgs/TUC Anniversary.png" className="portfolio-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+                <img src="https://github.com/BrianGustafBirahy/portofolio-gustaf/blob/develop/public/imgs/TUC%20Anniversary.png?raw=true" className="portfolio-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
                 <span className="portfolio-card-overlay">
                 <span className="portfolio-card-caption">
                     <h4>Design Poster</h4>
@@ -19,7 +19,7 @@ const Portofolio = () => {
             </div>
             <div className="col-md-4">
             <a href="#" className="portfolio-card">
-                <img className="portfolio-card-img" src="/public/imgs/TUC Homecoming1_rev4.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+                <img className="portfolio-card-img" src="https://github.com/BrianGustafBirahy/portofolio-gustaf/blob/develop/public/imgs/TUC%20Homecoming1_rev4.png?raw=true" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
                 <span className="portfolio-card-overlay">
                 <span className="portfolio-card-caption">
                     <h4>Design Poster</h4>
@@ -30,7 +30,7 @@ const Portofolio = () => {
             </div>
             <div className="col-md-4">
             <a href="#" className="portfolio-card">
-                <img className="portfolio-card-img" src="/public/imgs/HS_27Oktober2023.png" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+                <img className="portfolio-card-img" src="https://github.com/BrianGustafBirahy/portofolio-gustaf/blob/develop/public/imgs/HS_27Oktober2023.png?raw=true" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
                 <span className="portfolio-card-overlay">
                 <span className="portfolio-card-caption">
                     <h4>Design Poster</h4>

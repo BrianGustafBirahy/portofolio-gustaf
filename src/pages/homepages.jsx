@@ -7,6 +7,7 @@ import Pendidikan from "../components/Pendidikan"
 import Hire from "../components/Hire"
 import Organization from "../components/Organization"
 import Contact from "../components/Contact"
+import Footer from "../components/Footer"
 
 const HomePages = () => {
   return (
@@ -20,17 +21,7 @@ const HomePages = () => {
     <Hire/>
     <Organization/>
     <Contact/>
-    {/* footer */}
-    <div className="container">
-        <footer className="footer">
-        <p className="mb-0">Copyright
-            © <a href="https://www.unklab.ac.id/">Brian Gustaf Birahy</a> 
-        </p>
-        <div className="social-links text-right m-auto ml-sm-auto">
-            <a href="javascript:void(0)" className="link"><i className="ti-instagram" /></a>
-        </div>
-        </footer>
-    </div> {/* end of page footer */}
+    <Footer/>
     </div>
   )
 }

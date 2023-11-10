@@ -7,7 +7,7 @@ const Pendidikan = () => {
     <div className="pricing-wrapper">
         <div className="pricing-card">
         <div className="pricing-card-header">
-            <img className="pricing-card-icon" src="" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img className="pricing-card-icon" src="https://raw.githubusercontent.com/BrianGustafBirahy/portofolio-gustaf/04288cb83807bd5913c0470c5bcf1b13a46d3d2d/public/imgs/SD.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
         </div>
         <div className="pricing-card-body">
             <h6 className="pricing-card-title">SD</h6>
@@ -25,7 +25,7 @@ const Pendidikan = () => {
         </div>
         <div className="pricing-card">
         <div className="pricing-card-header">
-            <img className="pricing-card-icon" src="/public/imgs/shipped.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img className="pricing-card-icon" src="https://raw.githubusercontent.com/BrianGustafBirahy/portofolio-gustaf/04288cb83807bd5913c0470c5bcf1b13a46d3d2d/public/imgs/SMP.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
         </div>
         <div className="pricing-card-body">
             <h6 className="pricing-card-title">SMP</h6>
@@ -43,7 +43,7 @@ const Pendidikan = () => {
         </div>
         <div className="pricing-card">
         <div className="pricing-card-header">
-            <img className="pricing-card-icon" src="/public/imgs/startup.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img className="pricing-card-icon" src="https://raw.githubusercontent.com/BrianGustafBirahy/portofolio-gustaf/04288cb83807bd5913c0470c5bcf1b13a46d3d2d/public/imgs/SMA.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
         </div>
         <div className="pricing-card-body">
             <h6 className="pricing-card-title">SMA</h6>

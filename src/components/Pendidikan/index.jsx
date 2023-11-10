@@ -7,7 +7,7 @@ const Pendidikan = () => {
     <div className="pricing-wrapper">
         <div className="pricing-card">
         <div className="pricing-card-header">
-            <img className="pricing-card-icon" src="/public/imgs/scooter.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img className="pricing-card-icon" src="" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
         </div>
         <div className="pricing-card-body">
             <h6 className="pricing-card-title">SD</h6>
